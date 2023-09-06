@@ -1,5 +1,5 @@
 # professor-peppy
-shitty VNC thing in NodeJS and stuff
+shitty CollabVM clone
 
 npm install
 
